@@ -6,7 +6,6 @@ import random
 # inserts the user's name at a random position (not counted in statistics),
 # and saves it to a FASTA format file with proper metadata and formatting.
 # It also calculates and displays base composition and CG ratio.
-# Intended for use in teaching, testing bioinformatics workflows, or simulation.
 # --------------------------------------------------------
 
 def generate_dna_sequence(length):
